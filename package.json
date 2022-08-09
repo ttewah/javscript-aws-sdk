@@ -1,0 +1,22 @@
+{
+  "name": "javscript-aws-sdk",
+  "version": "1.0.0",
+  "description": "This repo has a Node project that uploads and downloads a txt file using the JavaScript aws-sdk (const AWS = require('aws-sdk')).",
+  "main": "ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttewah/javscript-aws-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttewah/javscript-aws-sdk/issues"
+  },
+  "homepage": "https://github.com/ttewah/javscript-aws-sdk#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1190.0"
+  }
+}
